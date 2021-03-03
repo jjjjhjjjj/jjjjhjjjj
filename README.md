@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=A6E9AC&height=200&text=HyeJinJung&animation=fadeIn&fontSize=70)
-
+![header](https://capsule-render.vercel.app/api?color=A6E9AC&height=200&text=HyeJinJung&animation=fadeIn&fontSize=80&fontAlignY=65)
 <!--
 **jjjjhjjjj/jjjjhjjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
